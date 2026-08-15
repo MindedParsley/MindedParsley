@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working towards getting a job in software development<br>Presently learning about system design whilst also expanding my portfolio of projects for experience.
+I'm currently studying <ins>Artificial intelligence and robotics</ins> at Aston university<br>I recently graduated sixth form studying <ins>Maths</ins>, <ins>Further Maths</ins> and <ins>Computer Science</ins>.<br>For now, I'm learning C++ with more projects coming soon to this very github account
 
 
 ## 🌐 Socials:
@@ -17,9 +17,6 @@ Im currently working towards getting a job in software development<br>Presently 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MindedParsley&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/kosterj35) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
