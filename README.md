@@ -10,7 +10,7 @@
 ### 🌐 Socials
 
 [![Email](https://shields.io)](mailto:jonathan@koster.cx)
-[![LinkedIn](https://shields.io)]([https://linkedin.com](https://www.linkedin.com/in/jonathan-koster-486b1b358/))
+[![LinkedIn](https://shields.io)](https://linkedin.com)
 
 ---
 
